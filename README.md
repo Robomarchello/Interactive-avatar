@@ -1,2 +1,6 @@
 # Interactive avatar
- DaFluffyPotato avatar parody
+
+ Requirements:
+ -PyGame
+ -sounddevice
+ -numPy
